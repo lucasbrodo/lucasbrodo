@@ -1,6 +1,6 @@
 ### Hello 👋
 
-> *Master Student in Robotics with a minor in Photonics at [EPFL](https://www.epfl.ch/). Currently working at [Rolex](https://www.rolex.com/) ⌚ as a Mechatronics Engineer Intern. Incoming Robotics Research Intern in legged robotics at [CERN](https://home.cern/) ➰. *
+> *Master Student in Robotics with a minor in Photonics at [EPFL](https://www.epfl.ch/). Currently working at [CERN](https://home.cern/) to develop advanced control algorithms for radiation inspection.
 
 ### Connect with me:
 
@@ -10,8 +10,8 @@
 
 ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "25"> 
 
-    - Python (PyTorch)
-    - C++
+    - Python
+    - C++/C
     - ROS
     - Matlab
     - CAD (Catia)
